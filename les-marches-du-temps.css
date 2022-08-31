@@ -1,0 +1,28 @@
+html{
+  font-size: 24px;
+  font-family: 'Cabin', sans-serif;
+}
+
+head{
+  width: 50px;
+  height: 50px;
+  
+}
+.parent {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  grid-template-rows: repeat (1);
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+  }
+  
+    body {
+      color:black;
+      background-color:white;
+
+    }
+
+    span{
+      font-size: 75px;
+      color: #B88B4B
+    }
